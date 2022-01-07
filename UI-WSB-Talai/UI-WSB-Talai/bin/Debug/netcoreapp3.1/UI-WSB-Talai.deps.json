@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UI-WSB-Talai/1.0.0": {
+        "runtime": {
+          "UI-WSB-Talai.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UI-WSB-Talai/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
